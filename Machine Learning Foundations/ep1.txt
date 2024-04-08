@@ -1,0 +1,12 @@
+. Data
+. Rules that bring answers
+
+. in the scenario of a game: data, clear rules and then answers
+
+- training a nueral network is really fascinating.
+it has no idea what the relationship between data and labels is
+guess
+evaluated via loss function
+fed into optimizer
+guess again
+
